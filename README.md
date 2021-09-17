@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajutsav1234
 - 👀 I’m interested in Competitive coding, web development
-- 🌱 I’m currently undergraduate Computer Sceince student
+- 🌱 I’m currently undergraduate Computer Sceince student at MNNIT Allahabad
 - 📫 Reach me at: rajutsav1234@gmail.com
 
 <!---
